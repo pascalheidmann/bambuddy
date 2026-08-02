@@ -4916,6 +4916,8 @@ export default {
   },
   modelViewer: {
     openInSlicer: "Открыть в слайсере",
+    openInSlicerWith: "Открыть в {{slicer}}",
+    moreSlicerOptions: "Другие варианты слайсера",
     tabs: {
       model: "3D-модель",
       gcode: "Предпросмотр G-code",
